@@ -1,0 +1,69 @@
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 1:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 800 USD
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 1:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 800 USD
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 1:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 800 USD
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 1:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 800 USD
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 1:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 800 USD
+
+Waiting for the request from client
+
+Received transcation from client 2:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 900 USD
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 1:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 800 USD
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 2:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 980 USD
+Account:101 creation successful for user: Peter with balance:1000
+Account:102 creation successful for user: John with balance:1200
+Account:103 creation successful for user: Gambo with balance:11000
+
+Waiting for the request from client
+
+Received transcation from client 1:101 w 200 
+SUCCESS: 200 USD successfully debited from account number: 101. Updated account balance is 800 USD
